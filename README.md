@@ -1,14 +1,4 @@
-```mermaid
-sequenceDiagram
-Alice ->> Bob: Hello Bob, how are you?
-Bob-->>John: How about you John?
-Bob--x Alice: I am good thanks!
-Bob-x John: I am good thanks!
-Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
 
-Bob-->Alice: Checking with John...
-Alice->John: Yes... John, how are you?
-```
 
 ---
 ```md
@@ -21,15 +11,26 @@ Welcome To My Github account
 
 ### Hi there 👋
 ### 
-I Am ROHIT KUMAR GUPTA COMPUTER SCIENCE STUDENT,IEM KOLKATA
+I Am ROHIT KUMAR GUPTA 
 ---
+*Computer Science STUDENT,IEM KOLKATA*
+---
+
+> **ProTip:** You can disable any **Markdown extension** in the **File properties** dialog.
+
 ```css
 Skill
 ```
 - WEB DEVELOPMENT
+      - [ ] HTML,CSS,BOOTSTRAP
+      - [ ] NODEJS,REACTJS,JQUERY,AJAX
+      
 - CODING
-- MACHINE LEARNING AND DEEP LEARNING
-- WEB SCRAPING AND AUTOMATION
+      - [ ] Python
+      - [ ] C
+      - [ ] C++
+- MACHINE LEARNING AND DEEP LEARNING **Currently Studying**
+- WEB SCRAPING AND AUTOMATION ~~illegal~~ ***LEGAL***
 - COMMAND LINE INTERFACE
 - VERSION CONTROL AND GOOGLE ACTION
 - GOOGLE CLOUD
