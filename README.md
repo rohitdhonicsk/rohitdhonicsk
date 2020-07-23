@@ -18,7 +18,9 @@ categories:
 classes:
 - feature-nofigcaption
 ---
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 ### Hi there 👋
 ### 
 - 📫 How to reach me:Linkedin ->https://www.linkedin.com/in/rohit-kumar-gupta-15655b183/
@@ -27,15 +29,10 @@ classes:
 -  🏢 Institute Of Engineering And Management Kolkata
 
 
-<style type="text/css">
-img[src*="#mos"] {
-   width:150px;
-   height:100px;
-   border:2px solid red;
-}</style>
+
 <div style="display:flex;width:100%;align-item:center;justify-content:space-around" >
 
-  <img src="https://github.com/rohitdhonicsk/rohitdhonicsk/blob/master/IMG_20190727_135450.jpg#mos" width="30%" height="300px" style="border:2px solid red;">
+  <img src="https://github.com/rohitdhonicsk/rohitdhonicsk/blob/master/IMG_20190727_135450.jpg" width="30%" height="300px" style="border:2px solid red;">
     <img  src="https://github-readme-stats.vercel.app/api?username=rohitdhonicsk&&show_icons=true&title_color=a1ff55&icon_color=bb2acf&text_color=ffffff&bg_color=0a192f"                width="60%" height="400px" >
   </div>
   
