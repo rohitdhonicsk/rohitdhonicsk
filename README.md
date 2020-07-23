@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning ...Machine Learning and Deep learning
 
 -  🏢 Institute Of Engineering And Management Kolkata
+<img src="https://github-readme-stats.vercel.app/api?username=rohitdhonicsk&&show_icons=true&title_color=a1ff55&icon_color=bb2acf&text_color=ffffff&bg_color=0a192f" width="80%"/>
+<img src="https://drive.google.com/file/d/1vTSlPCAfsMsKDybTjInTnTjfRt2yKl2Q/view" width="80%">
 
 <!--
 **rohitdhonicsk/rohitdhonicsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
