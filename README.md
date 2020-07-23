@@ -1,11 +1,7 @@
-
-  ---
-  ```md
+```md
 Welcome To My Github account
 ```
-----
 
----
 title: 'How to Style Images With Markdown'
 date: "2018-08-13T20:38:17-06:00"
 url: "/blog/how-to-style-images-with-markdown"
@@ -17,10 +13,21 @@ categories:
 - Markdown
 classes:
 - feature-nofigcaption
----
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+---
+
+I Am ROHIT
+---
+```css
+Skill
+```
+- WEB DEVELOPMENT
+- CODING
+- MACHINE LEARNING AND DEEP LEARNING
+- WEB SCRAPING AND AUTOMATION
+- COMMAND LINE INTERFACE
+- VERSION CONTROL AND GOOGLE ACTION
+- CLOUD
 ### Hi there 👋
 ### 
 - 📫 How to reach me:Linkedin ->https://www.linkedin.com/in/rohit-kumar-gupta-15655b183/
