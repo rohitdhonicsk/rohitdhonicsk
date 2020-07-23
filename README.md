@@ -1,20 +1,8 @@
 ```md
 Welcome To My Github account
 ```
+---
 
----
-title: 'How to Style Images With Markdown'
-date: "2018-08-13T20:38:17-06:00"
-url: "/blog/how-to-style-images-with-markdown"
-description: "This post presents a variety of ways to format images with Markdown, from brute force to proprietary syntax extensions, unwise hacks, and everything in between."
-credit: "https://unsplash.com/photos/jTCLppdwSEc"
-image: "/media/2018/08/unsplash-photos-jTCLppdwSEc.jpg"
-thumbnail: /media/2018/08/unsplash-photos-jTCLppdwSEc.tn-500x500.jpg
-categories:
-- Markdown
-classes:
-- feature-nofigcaption
----
 
 
 ### Hi there 👋
@@ -53,6 +41,13 @@ PROJECT --------COMING SOON
 | HackerRanK | https://www.hackerrank.com/karnal_narayana | here i DO coding,learning and given 3 Skill test
 | Codechef | https://www.codechef.com/users/karnalrohit | I am Active User OF Codechef ,I take part in long challenge
 
+```mermaid
+graph LR
+A[Square Rect] -- Link text --> B((Circle))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
+```
 
 <div style="display:flex;width:100%;align-item:center;justify-content:space-around" >
 
