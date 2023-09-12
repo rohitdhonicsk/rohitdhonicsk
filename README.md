@@ -104,7 +104,6 @@ PROJECT --------COMING SOON 💭🕑✌✋✌✋🌝
 
 <div style="display:flex;width:100%;align-item:center;justify-content:space-around" >
 
-  <img src="https://github.com/rohitdhonicsk/rohitdhonicsk/blob/master/IMG_20190727_135450.jpg" width="30%" height="300px" style="border:2px solid red;">
     <img  src="https://github-readme-stats.vercel.app/api?username=rohitdhonicsk&&show_icons=true&title_color=a1ff55&icon_color=bb2acf&text_color=ffffff&bg_color=0a192f" width="60%" height="400px" >
   </div>
   
